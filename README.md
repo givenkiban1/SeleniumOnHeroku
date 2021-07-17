@@ -1,4 +1,5 @@
-#Instructions
+#Running Selenium with Chrome on Heroku
+## Instructions
 
 1. create an app on heroku
 2. add 3 builpacks to heroko :  python, https://github.com/heroku/heroku-buildpack-google-chrome and
@@ -25,7 +26,7 @@ https://github.com/heroku/heroku-buildpack-chromedriver.
 Once app is deployed, whether or not you write line 15 (above), if you go to logs on heroku, you should see the page source contents of google.com printed out.
 
 
-#Extras
+## Extras
 
 For more info, the tutorial i've followed is "Running ChromeDriver with Python Selenium on Heroku",
 by Andres Sevilla
