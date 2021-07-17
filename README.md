@@ -1,4 +1,4 @@
-#Running Selenium with Chrome on Heroku
+# Running Selenium with Chrome on Heroku
 ## Instructions
 
 1. create an app on heroku
